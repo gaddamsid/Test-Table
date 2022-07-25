@@ -1,0 +1,25 @@
+// Use this command to create a  lazy-loaded feature module with routing, along with its stub component.
+
+ng generate module <MODULE_NAME> --route <ROUTE> --module app.module
+Eg:
+ng g m cos-ben2 --route r --module customer-management.module
+
+command to create module with routing
+ng g module <modulename> --routing
+Eg: ng g module admin --routing
+
+add new component to our admin module using bellow command
+ng g component <modulename>/<componentname>
+Eg: ng g component admin/home
+
+add a component under module without folder
+ng g c <componentname> --flat
+Eg: ng g c test --flat
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+For unit test cases
+npm test --no-watch --code-coverage
+

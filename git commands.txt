@@ -1,0 +1,25 @@
+git fetch -b development
+
+git status
+
+git add .
+
+git status
+
+git checkout -b development
+
+git commit -m 'message'
+
+git push 
+(or)
+git push origin development
+
+
+
+git stash
+git pull
+git stash apply (resolve conflicts if have)
+git add .
+git commit -m "msg"
+git push
+

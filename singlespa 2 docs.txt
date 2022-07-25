@@ -1,0 +1,2 @@
+Calling singleSpa.start()
+https://single-spa.js.org/docs/configuration#calling-singlespastart

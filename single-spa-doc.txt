@@ -1,0 +1,22 @@
+<--------------setup single-spa---------------->
+npm install --global create-single-spa
+create-single-spa
+
+Directory for new project .
+Select type to generate single-spa root config
+Which package manager do you want to use? npm
+Will this project use Typescript? Yes
+Would you like to use single-spa Layout Engine Yes
+Organization name (can use letters, numbers, dash or underscore) etims-cw5
+npm start
+port9000
+
+<---------------inside single spa setup angular--------------------->
+create-single-spa 
+Directory for new project angular-app1
+single-spa application / parcel 
+angular
+Project name (can use letters, numbers, dash or underscore) etims-app
+? Would you like to add Angular routing? Yes
+
+

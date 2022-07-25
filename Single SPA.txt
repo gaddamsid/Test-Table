@@ -1,0 +1,19 @@
+```To accomplish local development of only one microfrontend at a time, 
+we can customize the URL for that microfrontend within the import map
+
+Project setup complete!
+Steps to test your Angular single-spa application:
+1. Run 'npm run serve:single-spa:bs'
+2. Go to http://single-spa-playground.org/playground/instant-test?name=bs&url=%2F%2Flocalhost%3A4200%2Fmain.js&framework=angular to see it working!
+
+```STEPS```
+1) To create-single-spa globally available, run the following in a terminal
+npm install --global create-single-spa
+
+2) Then run this 
+create-single-spa
+Alternatively, you may use create-single-spa without global installation
+npm init single-spa
+
+3) 
+

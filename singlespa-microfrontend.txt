@@ -1,0 +1,7 @@
+1)A microfrontend is a microservice that exists within a browser
+2)Each microfrontend has its own git repository, its own package.json file, 
+and its own build tool configuration.
+As a result, each microfrontend has an independent build process and an independent deploy / CI.
+This generally means that each repo has fast build times.
+3) Utility modules: Microfrontends that export shared JavaScript logic without rendering components.
+4) 

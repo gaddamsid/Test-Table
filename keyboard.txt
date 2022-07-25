@@ -1,0 +1,14 @@
+- Press the Windows key + Ctrl + D or Control + Up if you use a Mac. It’ll switch to a new fresh desktop. 
+- Push the Windows key + Ctrl or the Control key on a Mac. Now you can switch between all the virtual desktops you’ve made by using the left and right arrow keys.
+- If you have too many apps open and you need to use another one hidden behind all those windows on your desktop, you can minimize all of them at once by pushing the Windows key + M.
+- If you want much faster access to your most used apps, consider keeping them on your taskbar. It’ll speed up your workflow even more if you use the following combination: the Windows key + a number key from 1 to 9.
+- Open one app that you need for your work and press the Windows key + left arrow. Then, open another app and click the Windows key + right arrow. Now, two windows are sharing your screen! 
+- Pressing Ctrl + Alt + Tab will show you all the apps currently running on your PC.
+- To avoid restarting your device and losing all your progress, try using the following combo: Ctrl + Shift + Esc or Command + Option + Escape if you’re working on a Mac. 
+- Pressing the Windows key + E opens the file manager window on your PC. For Mac users, this is your Finder app. 
+- The Windows key combined with the + or - key will open the magnifier app, which allows you to zoom in and out wherever you point your cursor.
+- Use the Windows key + Print Screen to take a screenshot and immediately save it in the Image folder on your hard drive. 
+- To open Bluetooth, simultaneously press the Windows key + A. For Mac users, your Notification Center is always a click away in the top right-hand corner.
+- If you need more tweaking or access to more advanced parameters of your PC, you can have it all! Use the Windows key + I to do just that.
+- To open Cortana on Windows in listening mode, press the Windows key + C. And to summon Siri on Mac OS, hold Command and Space together. “Hey, Siri!”
+- If you suddenly need to step away from the computer but you don’t want anyone meddling in your stuff, you can quickly lock your user profile. Simply push the Windows key + L or Shift + Command + Q on a Mac. 
